@@ -1,0 +1,1 @@
+pyinstaller --add-data "./videoes/ok.wav;./videoes/" --add-data "./videoes/keyboard.mp3;./videoes/" .\artillery_scaleplate_voice.py
